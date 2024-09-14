@@ -1,0 +1,41 @@
+<RCC>
+  <qresource prefix="Assets">
+    <file>be06c705-eb16-4fde-86aa-962b039a379c.jpg</file>
+    <file>1efe61d7-b8f1-4122-bd4b-611a366a7c85.jpg</file>
+    <file>39cb00bc-a2b9-4f7d-b7a4-c7cb7fd8706f.jpg</file>
+    <file>498d9bac-e24e-498e-a6d6-aea58ca3c3e3.jpg</file>
+    <file>94947354-9355-47f0-9861-1f13670c2dbd.jpg</file>
+    <file>a56714e4-3634-4e23-84b2-93048fa470c7.jpg</file>
+    <file>c3e2efe9-396c-4a5c-a4aa-0d28b3a5ecf2.jpg</file>
+    <file>c6ccd52c-56d6-4035-96c9-5349930116da.jpg</file>
+    <file>d4f6665c-05f6-4312-9626-828d5f39cb99.jpg</file>
+    <file>0a0d3ce3-cf95-427e-9c1d-16ff6502fac2.jpg</file>
+    <file>5ec8b8b8-0778-4cf6-95ef-b978cb48c6fb.jpg</file>
+    <file>521b7fb8-b3dd-4127-bb70-9647347a8d06.jpg</file>
+    <file>918ba150-8363-4417-b2e2-6080a8233c15.jpg</file>
+    <file>71323c86-199d-439f-b6d1-4d564162452a.jpg</file>
+    <file>a24e4c5f-5fba-446a-a505-5cd364ad29be.jpg</file>
+    <file>c4307a85-08dd-49d2-8221-2ded5b0b4697.png</file>
+    <file>fd205ea0-0a1d-4dec-a716-54069ec091ab.jpg</file>
+    <file>5a367633-80c9-42ae-8495-19961467af58.jpg</file>
+    <file>7c5ef53e-cd7c-4dbd-b50e-b345c2f0cfbc.jpg</file>
+    <file>7db2090a-6450-498f-9689-926166b015b2.jpg</file>
+    <file>9e01e1d8-b222-4159-be9c-d76d807344a9 (1).jpg</file>
+    <file>9e01e1d8-b222-4159-be9c-d76d807344a9.jpg</file>
+    <file>29f9eba2-0afa-4904-bd40-7ddd45ec9d0c.jpg</file>
+    <file>898c7e3e-61df-422b-9e90-bd38e84e0aec.jpg</file>
+    <file>1086c733-3e72-4294-a150-a005a9ead753.jpg</file>
+    <file>8295ad43-746f-4712-8179-778dd2dd9169.jpg</file>
+    <file>9261e4cf-4961-4a6f-9aa4-1b1167551a37.jpg</file>
+    <file>9693c129-af60-491d-8a62-6449a2b65e20.png</file>
+    <file>ba57865f-6b56-4b38-b9fc-468819cd007b.jpg</file>
+    <file>bb5796b7-882c-4ff4-8c99-0287d9767e42.jpg</file>
+    <file>df43c5fd-ece3-4f4d-9fd4-de87828f1523.jpg</file>
+    <file>e69fe91d-6ee6-49a9-a7de-1e037b7b29c2.jpg</file>
+    <file>f7c80f87-b358-4d47-8807-10dc1f03350a.jpg</file>
+    <file>fa9ce99d-8243-49dc-8f99-cfd569782a8d.jpg</file>
+    <file>minus-hexagon.png</file>
+    <file>plus-hexagon.png</file>
+    <file>smile-beam.png</file>
+  </qresource>
+</RCC>
